@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Picture from './Picture'
 
-
 class PictureList extends Component {
 
     constructor(props) {
@@ -34,4 +33,5 @@ class PictureList extends Component {
         );
     }
 }
+
 export default PictureList;

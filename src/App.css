@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.searchBtn {
+  height: 25px;
+  width: 100px
+}
+
+.searchBar {
+  width: 200px;
+  height: 40px;
+}
+
+.rover-image {
+  width: 200px;
+  height: 200px;
+}
+
+.add-pad {
+  padding: 3%;
+}
